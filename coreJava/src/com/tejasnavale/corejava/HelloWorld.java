@@ -1,4 +1,4 @@
-package coreJava;
+package com.tejasnavale.corejava;
 
 public class HelloWorld {
 
